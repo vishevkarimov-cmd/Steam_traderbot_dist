@@ -1,6 +1,10 @@
 {
-  "version": "0.9.0",
-  "url": "https://raw.githubusercontent.com/vishevkarimov-cmd/Steam_traderbot_dist/main/SteamTraderBot-windows-0.9.0.zip",
-  "apkUrl": "https://raw.githubusercontent.com/vishevkarimov-cmd/Steam_traderbot_dist/main/SteamTraderBot-0.9.0.apk",
-  "notes": "Проверка обновлений, журнал в видимой папке, точечный опрос Steam по кандидатам."
+  "version": "0.10.0",
+  "notes": "Автоматическое обновление: приложение само скачивает проверенную сборку и запускает установку. Сборки публикуются в релизах Steam_traderbot_dist.",
+  "url": "https://github.com/vishevkarimov-cmd/Steam_traderbot_dist/releases/download/v0.10.0/SteamTraderBot-Setup-0.10.0.exe",
+  "sha256": "fe96c0c075e24d9ebb965306aa4972116330640962edd540880defcf68f0d2d6",
+  "size": 10662942,
+  "apkUrl": "https://github.com/vishevkarimov-cmd/Steam_traderbot_dist/releases/download/v0.10.0/SteamTraderBot-0.10.0.apk",
+  "apkSha256": "5fef6bb5254f9c364367cd8968b6966c62462a66523055151ab05d61e36a2034",
+  "apkSize": 13132338
 }
