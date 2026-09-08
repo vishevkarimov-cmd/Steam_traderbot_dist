@@ -1,10 +1,10 @@
 {
-  "version": "0.10.1",
-  "notes": "Steam больше не разгоняется до блокировки: заявки на покупку, скорость продаж и цены по кандидатам снова доходят. Страница лота читается началом, а не отбрасывается целиком.",
-  "url": "https://github.com/vishevkarimov-cmd/Steam_traderbot_dist/releases/download/v0.10.1/SteamTraderBot-Setup-0.10.1.exe",
-  "sha256": "145702da778d447fc30703e4df41a27396c7b429202d823d49df1ce5290030c6",
-  "size": 10712577,
-  "apkUrl": "https://github.com/vishevkarimov-cmd/Steam_traderbot_dist/releases/download/v0.10.1/SteamTraderBot-0.10.1.apk",
-  "apkSha256": "3279852fc6e80ac0d936bc7bfd49aea72c0987b48faeedcdae7b8179b4a20959",
-  "apkSize": 13168166
+  "version": "0.10.2",
+  "notes": "Steam больше не пытается переписать весь свой каталог: он отвечает на два десятка запросов в минуту по десять позиций, и 35 тысяч лотов так не собрать. Теперь весь лимит уходит на точечные цены по предметам, которые уже нашлись на других площадках, и вопросы идут по кругу — сначала то, что дольше всего не обновлялось.",
+  "url": "https://github.com/vishevkarimov-cmd/Steam_traderbot_dist/releases/download/v0.10.2/SteamTraderBot-Setup-0.10.2.exe",
+  "sha256": "3f9829cf3da73e28e8220c8d49610ed710d9f63c85e4cceeb3b6f533868beb97",
+  "size": 10765484,
+  "apkUrl": "https://github.com/vishevkarimov-cmd/Steam_traderbot_dist/releases/download/v0.10.2/SteamTraderBot-0.10.2.apk",
+  "apkSha256": "1b15c4b52b1c06a8b0df09351202fa1d0dad1eedf646eb2b37e43692b6805809",
+  "apkSize": 13219258
 }
