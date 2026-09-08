@@ -1,10 +1,10 @@
 {
-  "version": "0.10.0",
-  "notes": "Автоматическое обновление: приложение само скачивает проверенную сборку и запускает установку. Сборки публикуются в релизах Steam_traderbot_dist.",
-  "url": "https://github.com/vishevkarimov-cmd/Steam_traderbot_dist/releases/download/v0.10.0/SteamTraderBot-Setup-0.10.0.exe",
-  "sha256": "fe96c0c075e24d9ebb965306aa4972116330640962edd540880defcf68f0d2d6",
-  "size": 10662942,
-  "apkUrl": "https://github.com/vishevkarimov-cmd/Steam_traderbot_dist/releases/download/v0.10.0/SteamTraderBot-0.10.0.apk",
-  "apkSha256": "5fef6bb5254f9c364367cd8968b6966c62462a66523055151ab05d61e36a2034",
-  "apkSize": 13132338
+  "version": "0.10.1",
+  "notes": "Steam больше не разгоняется до блокировки: заявки на покупку, скорость продаж и цены по кандидатам снова доходят. Страница лота читается началом, а не отбрасывается целиком.",
+  "url": "https://github.com/vishevkarimov-cmd/Steam_traderbot_dist/releases/download/v0.10.1/SteamTraderBot-Setup-0.10.1.exe",
+  "sha256": "145702da778d447fc30703e4df41a27396c7b429202d823d49df1ce5290030c6",
+  "size": 10712577,
+  "apkUrl": "https://github.com/vishevkarimov-cmd/Steam_traderbot_dist/releases/download/v0.10.1/SteamTraderBot-0.10.1.apk",
+  "apkSha256": "3279852fc6e80ac0d936bc7bfd49aea72c0987b48faeedcdae7b8179b4a20959",
+  "apkSize": 13168166
 }
