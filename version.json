@@ -1,10 +1,10 @@
 {
-  "version": "0.10.2",
-  "notes": "Steam больше не пытается переписать весь свой каталог: он отвечает на два десятка запросов в минуту по десять позиций, и 35 тысяч лотов так не собрать. Теперь весь лимит уходит на точечные цены по предметам, которые уже нашлись на других площадках, и вопросы идут по кругу — сначала то, что дольше всего не обновлялось.",
-  "url": "https://github.com/vishevkarimov-cmd/Steam_traderbot_dist/releases/download/v0.10.2/SteamTraderBot-Setup-0.10.2.exe",
-  "sha256": "3f9829cf3da73e28e8220c8d49610ed710d9f63c85e4cceeb3b6f533868beb97",
-  "size": 10765484,
-  "apkUrl": "https://github.com/vishevkarimov-cmd/Steam_traderbot_dist/releases/download/v0.10.2/SteamTraderBot-0.10.2.apk",
-  "apkSha256": "1b15c4b52b1c06a8b0df09351202fa1d0dad1eedf646eb2b37e43692b6805809",
-  "apkSize": 13219258
+  "version": "0.10.3",
+  "notes": "Steam больше не разгоняется до блокировки: пауза не опускается ниже настроенной, и площадка отвечает весь обход, а не первые сорок секунд. Имена, которых в Steam нет, запоминаются — раньше очередь вопросов вечно упиралась в них и не двигалась. Половина бюджета уходит на новые предметы, половина — на освежение известных цен. market.dota2.net теперь показывает ЛУЧШУЮ заявку на покупку, а не нижнюю строку сводки. И честнее оценка надёжности: продажа туда, где нет ни заявок, ни медианы, ни продаж, больше не считается надёжной.",
+  "url": "https://github.com/vishevkarimov-cmd/Steam_traderbot_dist/releases/download/v0.10.3/SteamTraderBot-Setup-0.10.3.exe",
+  "sha256": "0bbb72852d4f71ccd5e59d56c5ccbec7a9f45b2232f5b1f57a88f5137872f78a",
+  "size": 10743164,
+  "apkUrl": "https://github.com/vishevkarimov-cmd/Steam_traderbot_dist/releases/download/v0.10.3/SteamTraderBot-0.10.3.apk",
+  "apkSha256": "c73bd685d3bc7d46b89e465b8d09789f1f625d6b72ba0a1bd64ff07543766aea",
+  "apkSize": 13264274
 }
